@@ -30,10 +30,6 @@ The hands-on labs and exercises included in these courses have afforded me inval
 ### **Monitor and Evaluate Progress**
 The Security Blue Team’s platform offers an incredible way to monitor my learning journey. Witnessing my achievements not only fuels my passion for continuous learning but also sharpens my skills to a professional level. I'm excited about the opportunity to bring this dedication and growth mindset to a team!
 
-### **Prepare for the Field**
-Courses like “Cybersecurity Interview Preparation” and “Mental Health in Cybersecurity” have been instrumental in preparing me for the realities of working in the cybersecurity field. These courses provide insights that go beyond technical knowledge.
-
-
 
 ---
 
