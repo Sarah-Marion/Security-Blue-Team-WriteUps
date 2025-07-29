@@ -10,7 +10,6 @@ Below is an overview of my progress in the training courses:
 ### **Training Courses**
 | Course Name                           | Completion Date|
 |---------------------------------------|----------------|
-
 | [Introduction to Dark Web Operations](https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Dark%20Web%20Operations-course.pdf)   | 21/05/2025     |
 | [Introduction to OSINT](https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20OSINT-course.pdf)                 | 01/06/2025     |
 | [Introduction to Threat Hunting](https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Threat%20Hunting-course.pdf)       | 03/06/2025     |
